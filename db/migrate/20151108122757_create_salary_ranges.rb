@@ -9,3 +9,4 @@ class CreateSalaryRanges < ActiveRecord::Migration
     end
   end
 end
+exit
